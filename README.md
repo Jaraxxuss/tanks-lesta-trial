@@ -1,7 +1,11 @@
 ## Build & Run Release
 
 ```
-build.sh buildrun Release
+./build.sh buildrun Release
+```
+
+```
+./build.sh buildprod Release
 ```
 
 ---
